@@ -2,7 +2,7 @@
 
 [![SEAL Team Six](https://img.shields.io/badge/Standard-SEAL%20Team%20Six-gold?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/SoftEngineWare/SEAL-TEAM-Six_ottomator-agents)
 [![Mission Status](https://img.shields.io/badge/Mission-ACTIVE-red?style=for-the-badge&logo=target&logoColor=white)](TASK.md)
-[![Transformation](https://img.shields.io/badge/Progress-8%25-orange?style=for-the-badge&logo=chart-line&logoColor=white)](TASK.md)
+[![Transformation](https://img.shields.io/badge/Progress-8%25-green?style=for-the-badge&logo=chart-line&logoColor=white)](TASK.md)
 [![WIP](https://img.shields.io/badge/Status-WORK%20IN%20PROGRESS-yellow?style=for-the-badge&logo=construction&logoColor=white)](TASK.md)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=open-source-initiative&logoColor=white)](LICENSE)
 
