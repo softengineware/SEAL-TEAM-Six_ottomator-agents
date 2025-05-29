@@ -1,3 +1,15 @@
+# SEAL-TEAM-Six_ottomator-agents
+
+> **Fork Notice**: This is a SEAL Team Six standard transformation of the original [ottomator-agents](https://github.com/coleam00/ottomator-agents) repository by Cole Medin. This fork applies elite software engineering principles to enhance code quality, testing, documentation, and performance.
+
+## 🔱 SEAL Team Six Transformation Status
+
+- **Mission**: Transform all agents to elite operational standards
+- **Progress**: 2% Complete (See [TASK.md](TASK.md) for detailed metrics)
+- **Standards**: [ST6-CLAUDE.md](ST6-CLAUDE.md)
+
+---
+
 # What is the Live Agent Studio?
 
 The [Live Agent Studio](https://studio.ottomator.ai) is a community-driven platform developed by [oTTomator](https://ottomator.ai) for you to explore cutting-edge AI agents and learn how to implement them for yourself or your business! All agents on this platform are open source and, over time, will cover a very large variety of use cases.
@@ -44,3 +56,12 @@ Head on over to our Think Tank community and feel free to make a post!
 
 &copy; 2024 Live Agent Studio. All rights reserved.  
 Created by oTTomator
+
+---
+
+## 🔱 Fork Attribution
+
+**Original Repository**: [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents)  
+**Original Author**: Cole Medin (@coleam00)  
+**Fork Maintainer**: James Branchford Echols, II (@softengineware)  
+**Transformation Standard**: SEAL Team Six Software Engineering Principles
